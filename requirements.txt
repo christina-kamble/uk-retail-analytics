@@ -1,6 +1,7 @@
 pandas
 numpy
 duckdb
-streamlit
+streamlit==1.44.0
 plotly
 openpyxl
+altair>=5.0.0
