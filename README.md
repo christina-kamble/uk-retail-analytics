@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![DuckDB](https://img.shields.io/badge/SQL-DuckDB-yellow)
-![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit)https://christina-uk-retail-analytics.streamlit.app/
 ![Plotly](https://img.shields.io/badge/Charts-Plotly-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
